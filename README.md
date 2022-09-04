@@ -11,3 +11,5 @@ day 4 - https://replit.com/@harsharavi/day-4-2-exercise#main.py
 day 4 - https://replit.com/@harsharavi/day-4-3-exercise#main.py
 
 day 5 - https://replit.com/@harsharavi/day-5-1-exercise#main.py
+
+day 5- https://replit.com/@harsharavi/password-generator-start#main.py
