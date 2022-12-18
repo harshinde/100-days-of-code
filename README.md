@@ -21,3 +21,5 @@ day 7 - https://replit.com/@harsharavi/Day-7-Hangman-1-Start#main.py
 day 7 - https://replit.com/@harsharavi/Day-7-Hangman-2-Start#main.py
 
 day 7 - https://replit.com/@harsharavi/Day-7-Hangman-3-Start#main.py
+
+day 8 - https://replit.com/@harsharavi/day8paintareacalculatorpy#main.py
